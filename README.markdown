@@ -3,3 +3,7 @@
 ---
 
 ![Emacs window split](/screenshot/emacs-main-window.png)
+
+---
+
+# Shotcuts
