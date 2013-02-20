@@ -7,3 +7,5 @@
 ---
 
 # Shotcuts
+
+Shotcuts I used to:
